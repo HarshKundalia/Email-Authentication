@@ -4,13 +4,12 @@ Description: The Firebase Authentication UI project is a visually stunning Flutt
 
 # Languages and Tools:
 
-android dart flutter git firebase
 
 # Packages Used:
 
 Following are the packages used in the making of this receipt generator:
-1. Firebase_Core - A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
-2. Firebase_Auth - A Flutter plugin to use the Firebase Authentication API.
+1. [Firebase_Core](https://pub.dev/packages/firebase_core) - A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
+2. [Firebase_Auth](https://pub.dev/packages/firebase_auth) - A Flutter plugin to use the Firebase Authentication API.
 
 
 ## Getting Started
